@@ -1,5 +1,8 @@
 # Cisco-IPSEC-IKEv1-Site-to-Site-VPN
-Cisco IPSEC IKEv1 Site to Site VPN
+Site-to-Site IPSec VPN Tunnels are used to allow the secure transmission of data, voice and
+video between two sites (e.g offices or branches). The VPN tunnel is created over the Internet public
+network and encrypted using a number of advanced encryption algorithms to provide confidentiality
+of the data transmitted between the two sites.
 # Cisco IPSEC IKEv1 Site-to-Site VPN Configuration
 <img src="https://i.imgur.com/f83cYyX.png" height="80%" alt="Topology" />
 
